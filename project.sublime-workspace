@@ -1,0 +1,712 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"sessionType"
+			],
+			[
+				"l",
+				"layoutPost"
+			],
+			[
+				"na",
+				"nameNewFile"
+			],
+			[
+				"up",
+				"uploaddir"
+			],
+			[
+				"n",
+				"nameNewFile"
+			],
+			[
+				"fi",
+				"fileConfig"
+			],
+			[
+				"raiz",
+				"raizDir"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"val",
+				"valor_total_item"
+			],
+			[
+				"te",
+				"telefones"
+			],
+			[
+				"e",
+				"endereco"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"data",
+				"data_solicitacao"
+			],
+			[
+				"i",
+				"idped"
+			],
+			[
+				"acao",
+				"acaoForm"
+			],
+			[
+				"id",
+				"idPedido"
+			],
+			[
+				"a",
+				"acao"
+			],
+			[
+				"g",
+				"gNow"
+			],
+			[
+				"hm",
+				"htmlPedido"
+			],
+			[
+				"layoutPedidoF",
+				"layoutPedidoFooter"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"ht",
+				"htmlPedido"
+			],
+			[
+				"la",
+				"layoutPedidoHeader"
+			],
+			[
+				"ip",
+				"idPedido"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"v",
+				"valor_total"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"t",
+				"this"
+			],
+			[
+				"ra",
+				"raizDir"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"per",
+				"pergunta4"
+			],
+			[
+				"pe",
+				"pergunta3"
+			],
+			[
+				"s",
+				"skype"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"dir",
+				"dirOut"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Adicionar trava de segurança de validação de aplic",
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Windows",
+				"name": "Adicionar trava de segurança de validação de aplic"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6758,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "create.php",
+			"settings":
+			{
+				"buffer_size": 3184,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tmp/config.inc",
+			"settings":
+			{
+				"buffer_size": 1344,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/header.html",
+			"settings":
+			{
+				"buffer_size": 8896,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/post.html",
+			"settings":
+			{
+				"buffer_size": 1766,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layouts/footer.html",
+			"settings":
+			{
+				"buffer_size": 4282,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/João Paulo Bastos/Desktop/41170300913443000173550060010483251274467959.xml",
+		"/C/Users/João Paulo Bastos/Documents/tmp/t.ps1",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/atacadaodasembalagens.net/web/index.php",
+		"/C/Users/João Paulo Bastos/Desktop/bkpAtacadão.sql",
+		"/C/Users/João Paulo Bastos/Desktop/atacadaodasembalagens.net/web/index.php",
+		"/C/Users/João Paulo Bastos/Desktop/atacadaodasembalagens.net/web/produtos.php",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/wizard-newsletter/js/theme.admin.extension.js",
+		"/C/Users/João Paulo Bastos/Dropbox/bkp-sources/gerenciador-processos-web[1.0.6]/libs/php/gerenciador.class.php",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Supermecado Now/painel/libs/php/gerenciador.class.php",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/artefatos/email-azul.html",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/artefatos/email-rosa.html",
+		"/C/Users/João Paulo Bastos/Dropbox/bkp-sources/gerenciador-processos-web[1.0.6]/index.php",
+		"/C/Users/João Paulo Bastos/Dropbox/bkp-sources/gerenciador-processos-web[1.0.6]/checkout.php",
+		"/C/Users/João Paulo Bastos/Dropbox/bkp-sources/gerenciador-processos-web[1.0.6]/includes/footer.inc",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/wizard-newsletter/tmp/config.inc",
+		"/C/Users/João Paulo Bastos/Documents/Gerência de Problemas Nasa/Caso - Colocar em massa itens em promoção/update-itens-mais-12-meses-3.sql",
+		"/C/Users/João Paulo Bastos/Documents/Gerência de Problemas Nasa/Caso - Colocar em massa itens em promoção/update-itens-mais-12-meses-2.sql",
+		"/C/Users/João Paulo Bastos/Documents/Gerência de Problemas Nasa/Caso - Colocar em massa itens em promoção/update-itens-mais-12-meses.sql",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/wizard-newsletter/feature-admin-forms-advanced.html",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/wizard-newsletter/vendor/dropzone/dropzone.js",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/wizard-newsletter/js/forms/examples.wizard.js",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/wizard-newsletter/js/forms/examples.advanced.form.js",
+		"/C/Users/João Paulo Bastos/Desktop/update-itens-mais-12-meses.sql",
+		"/C/Users/João Paulo Bastos/Desktop/update-itens-mais-12-meses-2.sql",
+		"/C/Users/João Paulo Bastos/Desktop/update-itens-mais-12-meses-3.sql",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/landing-page-curso/index.html",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/landing-page-curso/preco.html",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Supermecado Now/artefatos/pedido.html",
+		"/C/Users/João Paulo Bastos/Desktop/t.html",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Supermecado Now/painel/config/layout_pedido_footer.html",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Supermecado Now/painel/config/layout_pedido_body.html",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Supermecado Now/painel/config/layout_pedido_header.html",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/mentoria/Sendemail.php",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Supermecado Now/painel/test/test.php",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Supermecado Now/painel/includes/footer.inc",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Supermecado Now/painel/libs/php/db.class.php",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Supermecado Now/painel/chekout.php",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/landing-page-curso/Sendemail.php",
+		"/C/Users/João Paulo Bastos/Desktop/Pedido.html",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/maraisa/index.html",
+		"/C/Users/João Paulo Bastos/Dropbox/bkp-sources/gerenciador-nfe/index.php",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Supermecado Now/app/index.php",
+		"/C/Users/João Paulo Bastos/Dropbox/Faculdade/7-periodo/B.D/exercicios/N2/fazenda-continua.sql",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Supermecado Now/db/povoar.sql",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Supermecado Now/db/povoar-cidade-estado-pais.sql",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/mentoria/index.html",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/mentoria/assets/js/scripts.js",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/mentoria/assets/css/style.css",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/mentoria/assets/css/form-elements.css",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/mentoria/assets/js/placeholder.js",
+		"/C/Users/João Paulo Bastos/Desktop/bootzard-bootstrap-wizard-template (2)/bootzard-bootstrap-wizard-template/index.html",
+		"/C/Users/João Paulo Bastos/Desktop/bootzard-bootstrap-wizard-template (2)/bootzard-bootstrap-wizard-template/assets/js/scripts.js",
+		"/C/Users/João Paulo Bastos/Dropbox/PortoIdeias/Clientes/InstitutoDeandhela/inscricao/index.php",
+		"/C/Users/João Paulo Bastos/Dropbox/PortoIdeias/Clientes/InstitutoDeandhela/inscricao/checkout.php",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/mentoria/email-mentoriado.html",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/mentoria/assets/font-awesome/css/font-awesome.css",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/mentoria/assets/js/meiomask.js",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/mentoria/email-mentor.html",
+		"/C/Users/João Paulo Bastos/Dropbox/PortoIdeias/Configurações-Serviços-Linux/samba/smb.conf",
+		"/C/Users/João Paulo Bastos/Dropbox/PortoIdeias/Clientes/Stilo Web/script-integrador-vesper-imoveis/integrador-v.2.2.0.cmd",
+		"/C/Users/João Paulo Bastos/Desktop/samba/samba/samba/smb.conf",
+		"/C/Users/João Paulo Bastos/Desktop/41170200913443000173550060010431761219809837.xml",
+		"/C/Users/João Paulo Bastos/Desktop/jackhammer.js",
+		"/C/Users/João Paulo Bastos/Desktop/index.html",
+		"/C/Users/João Paulo Bastos/Documents/config/teste.html",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Lixeira/2click/jota.html",
+		"/C/Users/João Paulo Bastos/Desktop/MotorTools.class.php",
+		"/C/Users/João Paulo Bastos/Documents/Gerência de Problemas Nasa/Caso - Emissão de NFSe RVD Antigas/xmltohtml/convert.php",
+		"/C/Users/João Paulo Bastos/Documents/Gerência de Problemas Nasa/Caso - Emissão de NFSe RVD Antigas/xmltohtml/busca.php",
+		"/C/Users/João Paulo Bastos/Documents/Gerência de Problemas Nasa/Caso - Emissão de NFSe RVD Antigas/xmltohtml/layout.html",
+		"/C/Users/João Paulo Bastos/Documents/Gerência de Problemas Nasa/Caso - Emissão de NFSe RVD Antigas/xmltohtml/pdf/2426.html",
+		"/C/Users/João Paulo Bastos/Documents/Gerência de Problemas Nasa/Caso - Emissão de NFSe RVD Antigas/layout.html",
+		"/C/Users/João Paulo Bastos/Dropbox/PortoIdeias/Clientes/InstitutoDeandhela/inscricao/lib/gerenciador.class.php",
+		"/C/Users/João Paulo Bastos/Dropbox/PortoIdeias/Clientes/InstitutoDeandhela/inscricao/config/layout_contrato_new.html",
+		"/C/Users/João Paulo Bastos/Dropbox/PortoIdeias/Clientes/InstitutoDeandhela/inscricao/test/untitled.php",
+		"/C/Users/João Paulo Bastos/Documents/Gerência de Problemas Nasa/Caso - Emissão de NFSe RVD Antigas/freeformatter-out.html",
+		"/C/Users/João Paulo Bastos/Desktop/StiloWeb/monta.cmd",
+		"/C/Users/João Paulo Bastos/Desktop/StiloWeb/statusStorage",
+		"/C/Users/João Paulo Bastos/Desktop/StiloWeb/bkpNuvem",
+		"/C/Users/João Paulo Bastos/Desktop/StiloWeb/monta-nuvem.cmd",
+		"/C/Users/João Paulo Bastos/Downloads/bacula/bacula-dir.conf",
+		"/C/Users/João Paulo Bastos/Downloads/bacula/conf.d/storage.conf",
+		"/C/Users/João Paulo Bastos/Downloads/youtube-dl",
+		"/C/Users/João Paulo Bastos/Downloads/owncloud.log",
+		"/C/Users/João Paulo Bastos/Desktop/lista",
+		"/C/Users/João Paulo Bastos/Desktop/lista1",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/Mxti/index.html",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/Mxti/contato.html",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/Mxti/licitacao.html",
+		"/C/Users/João Paulo Bastos/Dropbox/Faculdade/Tcc/fontes/modulo/modulo.ino",
+		"/C/Users/João Paulo Bastos/Desktop/projeto-stiloweb.txt",
+		"/C/Users/João Paulo Bastos/Desktop/StiloWeb/bkpDb",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/Sites/portoideias/index.html",
+		"/C/Users/João Paulo Bastos/Documents/Desenvolvimento/scripts/bkpNuvem",
+		"/C/Users/João Paulo Bastos/Desktop/sartre.thememountain.com/index-resume-2.html",
+		"/C/Users/João Paulo Bastos/Desktop/sartre.thememountain.com/index-resume-one-page.html",
+		"/C/Users/João Paulo Bastos/Desktop/sartre.thememountain.com/js/timber.master.min.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"servico",
+			"insert into servicos_diversos_prefeitura (COD_SERVICO_DIVERSO, COD_SERVICO_PREFEITURA, COD_EMPRESA) VALUES (	",
+			"https://raw.githubusercontent.com/jpblbastos/",
+			"https://github.com/jpblbastos/images/blob/master/",
+			"drop",
+			"dropzone-example",
+			"zone",
+			"url",
+			"upload",
+			"\" ",
+			"drop",
+			"fileupload",
+			"dropzone",
+			"drop",
+			"and cod_fornecedor in (3,4) and cod_empresa=22;",
+			"update itens_custos set promocao = NULL, desconto_especifico=50, promocao_percentual=50",
+			") ;",
+			"update itens_fornecedor set desconto_especifico=50, promocao_especifica=50, promocao='S', tipo_promocao='T'",
+			"	' and",
+			"\"",
+			"cod_item=\"	",
+			"cod_empresa=21;",
+			"and cod_fornecedor in (3,4) and cod_empresa=21;",
+			"update itens_custos set promocao = NULL, desconto_especifico=50, promocao_percentual=50",
+			"update itens_custos set promocao = NULL, desconto_especifico=50, promocao_percentual=50 where cod_item  ='   N/  010141/5 /' and cod_fornecedor in (3,4) and cod_empresa=21;",
+			"promocao = 'S'",
+			"cod_empresa=21",
+			"desconto_especifico=50, promocao_especifica=50",
+			"and cod_empresa=21",
+			"update itens_fornecedor set desconto_especifico=50, promocao_especifica=50",
+			"update itens_custos set DESCONTO_ESPECIFICO=50,00",
+			"cod_fornecedor=3",
+			"='  ",
+			"   and cod_fornecedor=3 and cod_empresa=21",
+			"='  ",
+			"esta",
+			"ins",
+			"status",
+			"docum",
+			"enviar",
+			"insert",
+			"7185",
+			"/",
+			"aliq",
+			"backstretch",
+			"top-navbar-1",
+			"1.jpg",
+			"navbar-brand",
+			"conta",
+			"VERIF_VALIDADE_CADASTRO_CLI",
+			"DATA_VALIDADE",
+			"R_CLIENTE.DATA_VALIDADE",
+			"CLIENTE.DATA_VALIDADE",
+			"VERIF_VALIDADE_CADASTRO_CLI",
+			"codigo",
+			"newHtml",
+			"contrato",
+			"layouthtml",
+			"PAUSE",
+			"montagem",
+			"pause",
+			"Controle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"INSERT INTO SERVICOS_DIVERSOS_PREFEITURA (COD_SERVICO_DIVERSO, COD_SERVICO_PREFEITURA, COD_EMPRESA) VALUES (",
+			"https://raw.githubusercontent.com/jpblbastos/images/master/",
+			"https://raw.githubusercontent.com/jpblbastos/",
+			";",
+			"update itens set promocao = 'S'",
+			") and cod_empresa=22;",
+			"update itens_custos set promocao = NULL, desconto_especifico=50, promocao_percentual=50",
+			"' and",
+			"'",
+			"cod_item=\"",
+			"cod_empresa=22;",
+			";",
+			"update itens set promocao = 'S'",
+			"update itens set promocao = 'S' where cod_item  ='   N/  010122/1 /';",
+			"promocao = NULL, desconto_especifico=50, promocao_percentual=50",
+			"cod_empresa=21;",
+			"desconto_especifico=50, promocao_especifica=50, promocao='S', tipo_promocao='T'",
+			";",
+			"update itens_custos set promocao = 'S'",
+			"update itens_fornecedor set desconto_especifico=50, promocao_especifica=50",
+			"cod_fornecedor in (3,4)",
+			"='",
+			"' and cod_fornecedor=3 and cod_empresa=21",
+			"='",
+			"layouthtml"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Adicionar trava de segurança de validação de aplic",
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Adicionar trava de segurança de validação de aplic",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 6758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3809,
+								3809
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "create.php",
+					"settings":
+					{
+						"buffer_size": 3184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1831,
+								1831
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 978.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "tmp/config.inc",
+					"settings":
+					{
+						"buffer_size": 1344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "layouts/header.html",
+					"settings":
+					{
+						"buffer_size": 8896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8808,
+								8808
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3210.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "layouts/post.html",
+					"settings":
+					{
+						"buffer_size": 1766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								164
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "layouts/footer.html",
+					"settings":
+					{
+						"buffer_size": 4282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3259,
+								3259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 315.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true
+}
